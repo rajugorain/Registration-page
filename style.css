@@ -166,3 +166,9 @@ p {
 img {
     width: 150px;
 }
+footer{
+    margin-left: 180px;
+    margin-top: 5px;
+    font-weight: 700;
+    font-size: 19px;
+}
